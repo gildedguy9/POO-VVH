@@ -5,16 +5,16 @@ var global = "Global";
 let local = "Local";
 //variable constante
 const constante = "Constante";
-let Num = 8;
-let Decimal= 12.45;
+let Num = 4;
+let Decimal= 10.45;
 let String = "texto";
 let Bool = true;
-let Array = ["carpintero", "luis", "gallardo", "empireo"];
-let Objeto = { edad:34, nombre: "gallardo", curso: "no estudio"};
+let Array = ["Emil", "Elias", "Nicolas", "Esteban"];
+let Objeto = { edad:17, nombre: "Emil", curso: "4°"};
 let Indefinida; 
 let Nula = null;
 function sumar() {
-return 11 + 2;
+return 5 + 7;
 };
 
 console.log( sumar() );
